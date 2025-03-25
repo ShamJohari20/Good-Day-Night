@@ -1,4 +1,4 @@
-import Themee from "./components/theme"
+import Themee from "./components/Theme"
 
 const App = ()=>{
   return(
