@@ -1,0 +1,23 @@
+.lightm{
+    display: flex;
+    /* align-items: center; */
+    justify-content:space-around;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+.lightc{
+    color: black;
+}
+
+.darkm{
+    display: flex;
+    /* align-items: center; */
+    justify-content:space-around;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+.darkc{
+    color: white;
+}
